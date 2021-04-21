@@ -20,12 +20,11 @@ First of all, welcome. I am Goldy, not that new around here. I began my programm
 
 I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. 
 
-<sub>Discord: Goldy#6300 | Twitter: @GoldyyDev</sub>
-
 ### And now: some stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=goldyydev&theme=onedark)
 
 
+<sub>Discord: Goldy#6300 | Twitter: <a href="https://twitter.com/GoldyyDev">@GoldyyDev</a></sub>
 
 
 <!--
