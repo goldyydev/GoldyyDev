@@ -24,7 +24,7 @@ I'll be honored to collaborate with anyone on any project, my Discord is right d
 ![My stats](https://github-readme-stats.vercel.app/api?username=goldyydev&theme=onedark)
 
 
-<sub>Discord: Goldy#6300 | Twitter: <a href="https://twitter.com/GoldyyDev">@GoldyyDev</a></sub>
+<sub>Discord: @Goldy#6300 | Twitter: <a href="https://twitter.com/GoldyyDev">@GoldyyDev</a></sub>
 
 
 <!--
